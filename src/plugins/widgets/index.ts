@@ -12,6 +12,7 @@ import quote from "./quote";
 import search from "./search";
 import time from "./time";
 import todo from "./todo";
+import todoist from "./todoist";
 import weather from "./weather";
 import workHours from "./workHours";
 import joke from "./joke";
@@ -30,6 +31,7 @@ export const widgetConfigs = [
   search,
   time,
   todo,
+  todoist,
   weather,
   workHours,
   joke,
